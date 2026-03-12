@@ -1,14 +1,15 @@
 # 🍃 Tea Leaf Disease Classification Leaderboard
 
-*Last updated: 2026-03-12 11:02 UTC*
+*Last updated: 2026-03-12 11:59 UTC*
 
-**Total submissions:** 3 &nbsp;|&nbsp; **Participants:** 3
+**Total submissions:** 4 &nbsp;|&nbsp; **Participants:** 3
 
 | Rank | Participant | Accuracy | F1 Score | Date |
 |------|-------------|----------|----------|------|
 | 🥇 | **Joe254h** ⭐ | 92.66% | 92.61% | 2026-03-12 |
-| 🥈 | **JHARILOVA** ⭐ | 90.40% | 90.42% | 2026-03-10 |
-| 🥉 | **okere-rafiatou** ⭐ | 12.43% | 12.30% | 2026-03-12 |
+| 🥈 | **okere-rafiatou** ⭐ | 92.09% | 92.11% | 2026-03-12 |
+| 🥉 | **JHARILOVA** ⭐ | 90.40% | 90.42% | 2026-03-10 |
+| 4 | okere-rafiatou | 12.43% | 12.30% | 2026-03-12 |
 
 ---
 
@@ -23,4 +24,4 @@
 
 ---
 
-*⭐ = best score per participant. Total submissions: 3*
+*⭐ = best score per participant. Total submissions: 4*

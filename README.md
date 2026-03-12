@@ -59,12 +59,13 @@ Then click the green **⬇️ Download** button that appears.
 
 ### Step 3 — Submit to GitHub
 
-1. Go to [submission/](https://github.com/JHARILOVA/Tea_Leaf_Disease_Dataset/tree/main/submission) folder
-2. Click **Add file → Upload files**
-3. Upload your `YOUR_NAME_submission.csv`
-4. At the bottom select **"Create a new branch"** — NOT commit to main
-5. Click **Propose changes**
-6. Click **Create pull request**
+1. Send your email adress to : harilovajuliannaram@gmail.com
+2. Go to [submission/](https://github.com/JHARILOVA/Tea_Leaf_Disease_Dataset/tree/main/submission) folder
+3. Click **Add file → Upload files**
+4. Upload your `YOUR_NAME_submission.csv`
+6. At the bottom select **"Create a new branch"** — NOT commit to main
+7. Click **Propose changes**
+8. Click **Create pull request**
 
 GitHub automatically evaluates your submission and posts your score as a comment on the PR. Your rank updates on the leaderboard instantly.
 

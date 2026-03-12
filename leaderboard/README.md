@@ -1,8 +1,8 @@
 # 🍃 Tea Leaf Disease Classification Leaderboard
 
-*Last updated: 2026-03-12 19:40 UTC*
+*Last updated: 2026-03-12 19:54 UTC*
 
-**Total submissions:** 9 &nbsp;|&nbsp; **Participants:** 5
+**Total submissions:** 10 &nbsp;|&nbsp; **Participants:** 6
 
 | Rank | Participant | Accuracy | F1 Score | Date |
 |------|-------------|----------|----------|------|
@@ -11,10 +11,11 @@
 | 🥉 | **Joe254h** ⭐ | 92.66% | 92.61% | 2026-03-12 |
 | 4 | **akakposara-ui** ⭐ | 92.66% | 92.52% | 2026-03-12 |
 | 5 | okere-rafiatou | 92.09% | 92.11% | 2026-03-12 |
-| 6 | **JHARILOVA** ⭐ | 90.40% | 90.42% | 2026-03-10 |
-| 7 | JHARILOVA | 90.40% | 90.42% | 2026-03-12 |
-| 8 | akakposara-ui | 88.14% | 88.25% | 2026-03-12 |
-| 9 | okere-rafiatou | 12.43% | 12.30% | 2026-03-12 |
+| 6 | **ndeyebndiaye-create** ⭐ | 91.53% | 91.51% | 2026-03-12 |
+| 7 | **JHARILOVA** ⭐ | 90.40% | 90.42% | 2026-03-10 |
+| 8 | JHARILOVA | 90.40% | 90.42% | 2026-03-12 |
+| 9 | akakposara-ui | 88.14% | 88.25% | 2026-03-12 |
+| 10 | okere-rafiatou | 12.43% | 12.30% | 2026-03-12 |
 
 ---
 
@@ -29,4 +30,4 @@
 
 ---
 
-*⭐ = best score per participant. Total submissions: 9*
+*⭐ = best score per participant. Total submissions: 10*

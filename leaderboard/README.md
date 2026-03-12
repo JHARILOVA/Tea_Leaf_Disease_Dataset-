@@ -15,13 +15,13 @@
 ---
 
 ## 📤 How to Submit
-
-1. Open the Colab notebook and run all cells
-2. Download your `YOUR_NAME_submission.csv`
-3. Go to [submissions/](../submissions/) → **Add file → Upload files**
-4. Select **Create a new branch** at the bottom — NOT commit to main
-5. Click **Propose changes → Create pull request**
-6. Your score appears here automatically
+1. Send your email adress to : harilovajuliannaram@gmail.com
+2. Open the Colab notebook and run all cells
+3. Download your `YOUR_NAME_submission.csv`
+4. Go to [submissions/](../submissions/) → **Add file → Upload files**
+5. Select **Create a new branch** at the bottom — NOT commit to main
+7. Click **Propose changes → Create pull request**
+8. Your score appears here automatically
 
 ---
 

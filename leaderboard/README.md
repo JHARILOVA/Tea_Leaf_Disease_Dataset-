@@ -1,21 +1,22 @@
 # 🍃 Tea Leaf Disease Classification Leaderboard
 
-*Last updated: 2026-03-12 19:54 UTC*
+*Last updated: 2026-03-13 20:47 UTC*
 
-**Total submissions:** 10 &nbsp;|&nbsp; **Participants:** 6
+**Total submissions:** 11 &nbsp;|&nbsp; **Participants:** 6
 
 | Rank | Participant | Accuracy | F1 Score | Date |
 |------|-------------|----------|----------|------|
-| 🥇 | **BwiraC** ⭐ | 93.79% | 93.77% | 2026-03-12 |
-| 🥈 | **okere-rafiatou** ⭐ | 93.22% | 93.26% | 2026-03-12 |
-| 🥉 | **Joe254h** ⭐ | 92.66% | 92.61% | 2026-03-12 |
-| 4 | **akakposara-ui** ⭐ | 92.66% | 92.52% | 2026-03-12 |
-| 5 | okere-rafiatou | 92.09% | 92.11% | 2026-03-12 |
-| 6 | **ndeyebndiaye-create** ⭐ | 91.53% | 91.51% | 2026-03-12 |
-| 7 | **JHARILOVA** ⭐ | 90.40% | 90.42% | 2026-03-10 |
-| 8 | JHARILOVA | 90.40% | 90.42% | 2026-03-12 |
-| 9 | akakposara-ui | 88.14% | 88.25% | 2026-03-12 |
-| 10 | okere-rafiatou | 12.43% | 12.30% | 2026-03-12 |
+| 🥇 | **okere-rafiatou** ⭐ | 94.35% | 94.28% | 2026-03-13 |
+| 🥈 | **BwiraC** ⭐ | 93.79% | 93.77% | 2026-03-12 |
+| 🥉 | okere-rafiatou | 93.22% | 93.26% | 2026-03-12 |
+| 4 | **Joe254h** ⭐ | 92.66% | 92.61% | 2026-03-12 |
+| 5 | **akakposara-ui** ⭐ | 92.66% | 92.52% | 2026-03-12 |
+| 6 | okere-rafiatou | 92.09% | 92.11% | 2026-03-12 |
+| 7 | **ndeyebndiaye-create** ⭐ | 91.53% | 91.51% | 2026-03-12 |
+| 8 | **JHARILOVA** ⭐ | 90.40% | 90.42% | 2026-03-10 |
+| 9 | JHARILOVA | 90.40% | 90.42% | 2026-03-12 |
+| 10 | akakposara-ui | 88.14% | 88.25% | 2026-03-12 |
+| 11 | okere-rafiatou | 12.43% | 12.30% | 2026-03-12 |
 
 ---
 
@@ -30,4 +31,4 @@
 
 ---
 
-*⭐ = best score per participant. Total submissions: 10*
+*⭐ = best score per participant. Total submissions: 11*
